@@ -2,8 +2,14 @@ package com.collabera;
 
 public class ElementSkateboards extends skateboard{
 
-    public ElementSkateboards(String name, int brain, int body, int size, int weight){
-        super(name, brain, body, size, weight);
-    }
+    private String color;
+    private String shape;
+    private int cost;
 
+    public ElementSkateboards(String name, int size, String wheels, String trucks, String bearings, String color, String shape, int cost) {
+        super(name, size, wheels, trucks, bearings);
+        this.color = color;
+        this.shape = shape;
+        this.cost = cost;
+    }
 }
