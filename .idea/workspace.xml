@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="924d63fa-7fec-4a0a-9b26-716664ee2d69" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/collabera/ElementSkateboards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collabera/ElementSkateboards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/collabera/skateboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collabera/skateboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaReview.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaReview/com/collabera/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collabera/ElementSkateboards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collabera/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collabera/skateboard.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,35 +23,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/collabera/main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/collabera/skateboard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/collabera/ElementSkateboards.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,28 +57,7 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="InheritancePractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaReview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InheritancePractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InheritancePractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="collabera" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,7 +114,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="717" y="28" width="723" height="821" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -175,7 +128,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32921812" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32921812" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -207,8 +160,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/collabera/ElementSkateboards.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
