@@ -7,7 +7,7 @@ public class Case {
     private String powerSupply;
     private Dimensions dimentions;
 
-    public Case(String model, String manufacturer, Dimensions dimentions) {
+    public Case(String model, String manufacturer, String powerSupply, Dimensions dimentions) {
         this.model = model;
         this.manufacturer = manufacturer;
         this.dimentions = dimentions;
