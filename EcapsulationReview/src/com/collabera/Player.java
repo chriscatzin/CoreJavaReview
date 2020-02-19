@@ -2,7 +2,7 @@ package com.collabera;
 
 public class Player {
 
-    public String name;
+    public String fullname;
     public int health;
     public String weapon;
 
