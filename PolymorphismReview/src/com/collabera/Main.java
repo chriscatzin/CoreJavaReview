@@ -1,5 +1,10 @@
 package com.collabera;
 
+/*
+* Christopher Catzin
+* Last modified: February 19, 2020
+ */
+
 class Movie{
     private String name;
 
