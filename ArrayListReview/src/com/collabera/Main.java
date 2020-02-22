@@ -1,7 +1,7 @@
 package com.collabera;
 
 /*
-
+* Christopher Catzin
  */
 import java.util.ArrayList;
 
@@ -22,15 +22,7 @@ public class Main {
         // Printing elements
         System.out.println(arrli);
 
-        // Remove element at index 3
-        arrli.remove(3);
-
-        // Displaying ArrayList after deletion
-        System.out.println(arrli);
-
-        // Printing elements one by one
-        for (int i=0; i<arrli.size(); i++)
-            System.out.print(arrli.get(i)+" ");
+     
 
     }
 }
