@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="615cef1d-e148-4da0-abab-7e8e70363677" name="Default Changelist" comment="" />
+    <list default="true" id="c69aa814-323c-4602-96c8-207c7551fcca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ArrayListReview/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListReview/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/collabera/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="125">
+              <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -40,7 +42,6 @@
     <option name="files">
       <list>
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
       </list>
     </option>
   </component>
@@ -57,22 +58,21 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ArrayListReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayListReview" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArrayReview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArrayListReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayListReview" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArrayReview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArrayListReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayListReview" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArrayReview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="collabera" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -80,10 +80,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -100,7 +98,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.collabera.Main" />
-      <module name="ArrayListReview" />
+      <module name="ArrayReview" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -119,11 +117,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="615cef1d-e148-4da0-abab-7e8e70363677" name="Default Changelist" comment="" />
-      <created>1582262236671</created>
+      <changelist id="c69aa814-323c-4602-96c8-207c7551fcca" name="Default Changelist" comment="" />
+      <created>1582582823898</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582262236671</updated>
+      <updated>1582582823898</updated>
     </task>
     <servers />
   </component>
@@ -144,7 +142,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32921812" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32921812" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -162,8 +160,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/collabera/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="125">
+          <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
         </state>
       </provider>
     </entry>
