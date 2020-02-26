@@ -1,5 +1,9 @@
 package com.collabera;
 
+/*
+* Chris Catzin
+ */
+
 import java.util.Scanner;
 
 public class Main {
@@ -28,7 +32,7 @@ public class Main {
     public static double getAverage(int[] array){
         int sum = 0;
         for(int i = 0; i < array.length; i++){
-            sum += array[i];
+            sum += array[i]; // gets the sum
         }
         return (double) sum / (double)array.length;
     }
