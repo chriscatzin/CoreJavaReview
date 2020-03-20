@@ -1,6 +1,6 @@
 package com.collabera;
 
-public class LastString {
+public class LastChar {
 
     public static void main(String args[]) {
         String str = "India";
