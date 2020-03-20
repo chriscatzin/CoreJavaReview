@@ -18,6 +18,10 @@ public class Main {
         }
         System.out.println("The average is " + getAverage(myIntegers));
 
+        String test =  "This is a sentence";
+        String lastString = test.substring(test.lastIndexOf(" ")+1);
+        System.out.println(lastString);
+
     }
 
     public static int[] getIntegers(int number){
